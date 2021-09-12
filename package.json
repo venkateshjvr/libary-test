@@ -1,5 +1,5 @@
 {
-  "name": "libary-test",
+  "name": "@jvr/rc-js-libary-test",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -13,7 +13,7 @@
     "react-dom": "^17.0.2"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@venkateshjvr/:_authToken=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"
+    "registry":"https://npm.pkg.github.com/venkateshjvr"
   },
   "repository": {
     "type": "git",
