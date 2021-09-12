@@ -13,7 +13,7 @@
     "react-dom": "^17.0.2"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@venkateshjvr/:_authToken=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"
+    "registry":"https://npm.pkg.github.com"
   },
   "repository": {
     "url": "git@github.com:venkateshjvr/libary-test.git"
