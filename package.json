@@ -16,6 +16,7 @@
     "registry":"https://npm.pkg.github.com"
   },
   "repository": {
+    "type": "git",
     "url": "git@github.com:venkateshjvr/libary-test.git"
   },
   "peerDependencies": {
